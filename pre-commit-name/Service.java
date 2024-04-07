@@ -1,4 +1,4 @@
-public class Product {
+public class Service {
   String firstName;
   String lastName;
   String gender;
